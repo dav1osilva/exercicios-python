@@ -1,0 +1,1 @@
+# Não faz sentido usar else naquele caso, pois as condições naquele caso são mais específicas, não pode ser qualquer valor
